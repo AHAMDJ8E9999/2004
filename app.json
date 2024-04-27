@@ -1,7 +1,7 @@
 {
-    "name": "سورس فريدوم بوت",
+    "name": " ابو صكر سورس فريدوم بوت",
     "description": "تشغيل الاغاني في المجموعات",
-    "logo": "https://te.legra.ph/file/46fa55b49b85c084159ce.jpg",
+    "logo": "https://telegra.ph/file/4a02e2542052091c5f1c7.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/xl444",
+    "website": "https://t.me/O_U_Q1",
     "repository": "https://github.com/muntazer995/RR8R9",
-    "success_url": "https://t.me/rr8r9",
+    "success_url": "https://t.me/O_U_Q1",
     "env": {
      "API_ID": {
             "description": "لاتغيرها ابدا",
@@ -45,17 +45,17 @@
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
             "required": true,
-            "value": "1854384004"
+            "value": "6189288231"
         },
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت",
             "required": true,
-            "value": "1854384004"
+            "value": "6189288231"
         },
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
             "required": true,
-            "value": "rr8r9"
+            "value": "Xs_UB"
         },
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
